@@ -1,10 +1,24 @@
-# Sistema-gerenciador-de-disciplinas-alunos-e-professores
+# README
 
-## Disciplina
-> Engenharia de Software (2019.1)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Descrição do Projeto
-  Utilizando os conceitos vistos em sala de aula, este projeto funciona como um sistema que cadastra e gerencia alunos, professores e disciplinas de uma instituição de ensnio.
+Things you may want to cover:
 
-## Aluno
-> David da Silva Brito ([Davidbr1to](https://github.com/Davidbr1to))
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
