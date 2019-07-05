@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Nome: MyString
+  CPF: MyString
+  Disciplina: one
+
+two:
+  Nome: MyString
+  CPF: MyString
+  Disciplina: two
