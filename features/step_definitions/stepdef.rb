@@ -84,11 +84,11 @@ When("Eu preencho o campo nome com {string} e o campo CPF com {string}") do |nom
   fill_in 'professor[CPF]', :with => cpf
 end
 
-When('Eu preencho o campo nome com {string} e o nao preencho campo cpf com {string}')do |nome, cpf|
+When('Eu preencho o campo nome com {string} e o nao preencho campo cpf com {string}')do |cpf|
   expect(page).to have_no_content(cpf)
 end
 
-When('Eu preencho o campo nome com {string} e o nao preencho campo sigla com {string}')do |nome, sigla|
+When('Eu preencho o campo nome com {string} e o nao preencho campo sigla com {string}')do |sigla|
   expect(page).to have_no_content(sigla)
 end
 
